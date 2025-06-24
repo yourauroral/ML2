@@ -1,1 +1,1 @@
-**ML project: churn predict**
+**ML2 project: churn predict**
